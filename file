@@ -1,1 +1,8 @@
 1111
+total 24
+drwxr-xr-x   6 rexzou  staff  204  5  8 16:32 .
+drwxr-xr-x   5 rexzou  staff  170  5  8 16:30 ..
+drwxr-xr-x  15 rexzou  staff  510  5  8 16:32 .git
+-rw-r--r--   1 rexzou  staff   11  5  8 15:51 .gitignore
+-rw-r--r--   1 rexzou  staff   76  5  8 15:51 README.md
+-rw-r--r--   1 rexzou  staff    5  5  8 16:32 file
